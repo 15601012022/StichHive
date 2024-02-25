@@ -1,2 +1,1 @@
-# StichHive
-project under google solution challenge
+# Mobile-development
